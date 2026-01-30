@@ -1,0 +1,74 @@
+Equilibrium_selection_MARL - V1.ipynb
+Notes.md
+
+experiments/**
+
+out/**
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+
+# PyTest
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs & editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# MyPy / static analysis
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Logs & local data
+*.log
+*.sqlite3
+*.db
+
+# Secrets
+.env.*
